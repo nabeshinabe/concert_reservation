@@ -42,7 +42,7 @@ phpの情報を出力する。
 
 ```php
 # MacOSVerで開く
-open <http://localhost:8080/test/{}.php>
+open http://localhost:8080/test/{}.php
 
 # phpを実行
 php -S localhost:8080
